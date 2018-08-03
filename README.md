@@ -16,6 +16,7 @@
  ## CSS
  - form facsimile documenti cartacei https://github.com/kumailht/gridforms
  - notifiche popup fixed https://github.com/catc/iGrowl/
+ - notifiche growl-like per bootstrap https://github.com/ifightcrime/bootstrap-growl
  
  
 ## nVim \ terminal
