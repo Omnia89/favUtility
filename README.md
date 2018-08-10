@@ -5,6 +5,7 @@
  - calendario google-like https://github.com/nhnent/tui.calendar
  - uploader di file molto completo https://github.com/transloadit/uppy
  - libreria per la creazione di identicon https://github.com/dmester/jdenticon
+ - libreria grafica https://github.com/williamngan/pts
  
 ### Other
  - AI game in JS https://github.com/olistic/warriorjs
