@@ -47,3 +47,4 @@
  - JSON dei comuni italiani https://github.com/matteocontrini/comuni-json
  - SQL tool online (installabile) con grafici e altro https://github.com/HVF/franchise
  - animazioni ASCII https://github.com/peterbrittain/asciimatics
+ - man personalizzati https://github.com/sinclairtarget/um
